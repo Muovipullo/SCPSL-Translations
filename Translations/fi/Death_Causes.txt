@@ -10,7 +10,7 @@ Kaularangan murtuma.
 Kehossa on massiivisia määriä kudoksen hajoamista.
 Elonmerkkien äkillinen loppu. Ei selvää vammaa.
 Tuntematon kuolinsyy.
-Pelaajan <b>[user]</b> ruumis - hän oli [class]!\n\nKuolinsyy: [cause]
+Pelaajan <b>[user]</b> ruumis – hän oli [class]!\n\nKuolinsyy: [cause]
 Massiivisia repeytymiä ja liiallinen verenhukka.
 Havaittavissa suuria, syviä puremisen merkkejä kallon ympärillä.
 Sulanut erittäin syövyttävästä aineesta.
