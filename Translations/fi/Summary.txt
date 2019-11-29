@@ -4,8 +4,8 @@ MTF VOITTI
 D-LUOKKA VOITTI
 PATTITILANNE
 He ovat vastuullisia [summary_scpfrags] ihmisen kuolemasta.
-Uhka tuhottu. Laitos on turvallinen taas.
-Kaikki laitoksen vartijat ovat tuhottu.
+Uhka tuhottu. Laitos on jälleen turvallinen.
+Kaikki laitoksen vartijat on tuhottu.
 Molemmat osapuolet ovat kärsineet tappioita ja hyötyneet suuresti. Voittaja on määrittelemätön.
 [summary_d_escaped] D-luokasta pakeni
 [summary_s_escaped] tutkijoista pakeni
